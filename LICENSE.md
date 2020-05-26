@@ -1,6 +1,6 @@
-# LJLee37's Open License
+# LJLee37 Open License
 
-numbaseball Copyright by LJLee37(ljlee3759@gmail.com), 2020
+Copyright by LJLee37(ljlee3759@gmail.com), 2020
 
 ## 요약
 1. 범죄에 사용하지 않는다.
